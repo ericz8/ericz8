@@ -68,7 +68,7 @@ I am an incoming **Computer Engineering student at the University of Illinois Ur
 
 * **USACO Silver** Competitive Programmer
 * **MIT BWSI** Autonomous Underwater Vehicles Alum
-* **Science Olympiad** State & Invitational 1st Place Champion (Rocks & Minerals, Robot Tour, CAD)
+* **Science Olympiad** State & Invitational Medalist (Rocks & Minerals, Robot Tour, CAD)
 
 ---
 
